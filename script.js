@@ -9,7 +9,7 @@ const judges = [
     name: 'Amanda Holden',
     image: 'Img/judge-2.png',
     job: 'Media personality, actress and singer',
-    experience: "She has been a judge on the television talent show competition Britain's Got Talent on ITV"
+    experience: "She has been a judge on the television talent show competition Britain's Got Talent on ITV",
   },
   {
     name: 'Brandy Norwood',
@@ -79,8 +79,6 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   hamburgerMenu.addEventListener('click', toggleMobileMenu);
-
-  
 
   // Create judges/
   const morejudge = document.querySelector('.more-judge');
