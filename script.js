@@ -2,7 +2,7 @@ const judges = [
   {
     name: 'Tyler Perry',
     image: 'Img/judge-1.png',
-    job: 'He is an actor, filmmaker, playwright, and entrepreneur.',
+    job: 'An actor, filmmaker, playwright, and entrepreneur.',
     experience: 'He is the creator and performer of Mabel "Madea" Simmons, a tough elderly woman, and also portrays her brother Joe Simmons and her nephew Brian Simmons.',
   },
   {
@@ -14,21 +14,21 @@ const judges = [
   {
     name: 'Brandy Norwood',
     image: 'Img/judge-3.png',
-    job: 'She is an American singer, songwriter, actress and model. ',
+    job: 'An American singer, songwriter, actress and model. ',
     experience: 'Her sound, characterized by heavy voice-layering and intricate riffs, has seen her nicknamed "the Vocal Bible"',
   },
   {
     name: 'Simon Cowell',
     image: 'Img/judge-4.png',
-    job: 'He is an English television personality, entrepreneur and record executive',
+    job: 'An English television personality, entrepreneur and record executive',
     experience: 'He is the creator of The X Factor and Got Talent franchises which have been sold around the world.',
   },
   {
     name: 'Howie Mandel',
     image: 'Img/judge-5.png',
-    job: 'He is a Canadian comedian, television personality, actor, and producer.',
+    job: 'A Canadian comedian, television personality, actor, and producer.',
     experience: 'Mandel voiced the character Gizmo in the 1984 film Gremlins and the 1990 sequel Gremlins.',
-  },
+  }, 
   {
     name: 'Jennifer Aniston',
     image: 'Img/judge-6.png',

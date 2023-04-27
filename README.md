@@ -1,8 +1,8 @@
-# Mobile-Portfolio-Project
+# Module 1-Capstone Project
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖 About the Project](#Capstone-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -22,9 +22,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Portfolio-Desktop version] <a name="about-project"></a>
+# 📖 [Capstone-Project] <a name="about-project"></a>
 
-**Portfolio-setup--RDW mobile & Desktop** is a portfolio project. It provides a homepage of my portfolio which was parsed from a Figma design.
+**Capstone Project**  It provides a homepage of my Module 1 microverse capstone project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,6 +35,7 @@
   <ul>
      <li>HTML</li>
     <li>CSS</li>
+    <li>JSS</li>
   </ul>
 </details>
 
@@ -44,12 +45,16 @@
 - **[linter_usage]**
 - **[github_pull_request]**
 - **[responsive_css_design]**
+- **[DOM_JSS]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name=""></a>
+- **[Live Demo Link](https://samueltakyiboateng.github.io/Capstone-Project-1/)**
+- **[Video Presentation](https://www.loom.com/share/baf4d087d2c84de2b570b8d248e56c7b)**
 
-- [Live Demo Link](coming soon)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +70,7 @@ In order to run this project you need: vs code editor
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/SamuelTakyiBoateng/Mobile-Portfolio-Project.git
+git clone https://github.com/SamuelTakyiBoateng/Capstone-Project-1.git
 
 ### Install
 
