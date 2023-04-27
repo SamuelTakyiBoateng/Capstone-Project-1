@@ -671,3 +671,7 @@ header {
     transform: translateX(0);
   }
 }
+
+.logo{
+  height: 5vh;
+}
