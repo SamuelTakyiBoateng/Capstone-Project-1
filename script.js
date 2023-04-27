@@ -28,7 +28,7 @@ const judges = [
     image: 'Img/judge-5.png',
     job: 'A Canadian comedian, television personality, actor, and producer.',
     experience: 'Mandel voiced the character Gizmo in the 1984 film Gremlins and the 1990 sequel Gremlins.',
-  }, 
+  },
   {
     name: 'Jennifer Aniston',
     image: 'Img/judge-6.png',
