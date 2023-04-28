@@ -1,7 +1,5 @@
 body {
   font-family: "Lato", sans-serif,;
-
-  /* font-weight: 500; */
   margin: 0;
   position: relative;
   display: flex;
@@ -11,6 +9,8 @@ body {
 
 .wrapper {
   padding: 0 15% 10%;
+  display: flex;
+  flex-direction: column;
 }
 
 .headline {
@@ -18,7 +18,7 @@ body {
   background-repeat: no-repeat;
   padding-top: 1%;
   background-position-x: center;
-  height: 70vh;
+  height: 90vh;
 }
 
 .into > h3 {
@@ -97,6 +97,11 @@ body {
   justify-content: flex-end;
   color: #ebedf1;
   margin-bottom: 0;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
 }
 
 .main-programs {
@@ -193,7 +198,7 @@ body {
 }
 
 .program-cards-about {
-  gap: 2rem !important;
+  gap: 2rem;
 }
 
 .line {
@@ -202,7 +207,7 @@ body {
 }
 
 .program-line {
-  width: 100% !important;
+  width: 100%;
   border: 1px solid #84848466;
 }
 
@@ -479,6 +484,7 @@ header {
 
 .about-footer-logo img {
   content: url(Img/summit-logo.jpeg);
+  /* height: 5vh; */
 }
 
 .about-footer-description {
@@ -673,7 +679,7 @@ header {
   }
 }
 
-.logo {
+.logo, .f-logo {
   height: 5vh;
 }
 
