@@ -99,7 +99,7 @@ body {
   margin-bottom: 0;
 }
 
-.main{
+.main {
   display: flex;
   flex-direction: column;
 }
@@ -198,7 +198,7 @@ body {
 }
 
 .program-cards-about {
-  gap: 2rem;
+  gap: 2rem !important;
 }
 
 .line {
@@ -207,7 +207,7 @@ body {
 }
 
 .program-line {
-  width: 100%;
+  width: 100% !important;
   border: 1px solid #84848466;
 }
 
@@ -484,6 +484,7 @@ header {
 
 .about-footer-logo img {
   content: url(Img/summit-logo.jpeg);
+
   /* height: 5vh; */
 }
 
@@ -679,7 +680,8 @@ header {
   }
 }
 
-.logo, .f-logo {
+.logo,
+.f-logo {
   height: 5vh;
 }
 
